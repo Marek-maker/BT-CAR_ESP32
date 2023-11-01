@@ -1,0 +1,6 @@
+[book]
+authors = ["Racko"]
+language = "sk"
+multilingual = true
+src = "src"
+title = "BT-CAR_ESP32"
