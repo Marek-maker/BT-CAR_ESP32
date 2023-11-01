@@ -1,0 +1,1 @@
+# Chodenie po stredovej čiare
