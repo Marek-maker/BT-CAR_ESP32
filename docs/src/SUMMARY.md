@@ -14,3 +14,5 @@
     - [Snímač čiar](./Snímač_čiar.md)
 - [Aplikácie](./Aplikácie.md)
     - [Chodenie po stredovej čiare](./Chodenie_po_stredovej_čiare.md)
+    - [Zastavovanie pred prekážkou](./Zastavovanie_pred_prekážkou.md)
+    - [Budíček](./Budíček.md)
