@@ -1,6 +1,7 @@
 # Summary
 
 [Úvod](./Úvod.md)
+[Hardwér](./Hardwér.md)
 - [Inštalácie](./Inštalácie.md)
     - [Thonny IDE](./Thonny_IDE.md)
     - [microPython firmwér](./micropython_firmwér.md)
